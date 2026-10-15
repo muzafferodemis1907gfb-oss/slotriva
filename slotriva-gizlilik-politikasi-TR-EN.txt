@@ -1,0 +1,71 @@
+SLOTRIVA: CASINO GAMES
+GİZLİLİK POLİTİKASI / PRIVACY POLICY
+Son güncelleme / Last updated: 16 Ekim / October 2026
+Geliştirici / Developer: Victorium Soft
+
+TÜRKÇE
+===================================
+
+1. Kapsam ve geliştirici
+Bu Gizlilik Politikası, Victorium Soft tarafından sunulan “Slotriva: Casino Games” Android uygulaması (paket adı: com.victoriumsoft.slotriva) için geçerlidir. Bu açıklama, 4.6.0 sürümünün incelenen kaynak kodundaki veri işleme davranışını temel alır. Sorularınız veya gizlilik talepleriniz için victoriumsoft@gmail.com adresinden bize ulaşabilirsiniz.
+
+2. Toplanan ve cihazda tutulan bilgiler
+Slotriva, mevcut sürümünde kullanıcı hesabı oluşturulmasını istemez ve ad, e-posta adresi, telefon numarası, konum, fotoğraf, kişi listesi veya ödeme kartı bilgileri gibi kişisel verileri uygulama içinde talep etmez. Oyun deneyimini sürdürmek için sanal jeton bakiyesi, seçilen bahis miktarları ve son bahis düzenleri, slot/rulet/Blackjack oyun geçmişi, VIP seviyesi, deneyim puanı, başarımlar, günlük ödül ve görev durumları, tema ve dil tercihleri, ses/animasyon ayarları ve ilgili yerel tarihler cihazda saklanır. Bunlar kullanıcı cihazında bulunan oyun ilerleme verileridir; uygulama bunları Victorium Soft sunucusuna göndermek üzere tasarlanmamıştır.
+
+3. Verilerin kullanım amaçları
+Yerel kayıtlar oyun ilerlemesini sürdürmek, kapatılan oyunun kaldığı yerden devam etmesini sağlamak, sanal jeton bakiyesini hesaplamak, görev/ödülleri yönetmek, kullanıcı tercihlerini hatırlamak ve oyun içi istatistikleri göstermek için kullanılır. Gerçek parayla bahis veya nakde çevrilebilir ödül sunulmaz.
+
+4. İnternet, reklam ve üçüncü taraf hizmetleri
+İncelenen 4.6.0 kaynak sürümünde oyun içi reklam, kullanıcı analitiği, üçüncü taraf izleme, sosyal giriş, bulut kaydı ve uygulama içi ödeme SDK'sı bulunmamaktadır. Android dışa aktarma yapılandırmasında internet ve ağ durumuna erişim izinleri kapalıdır. Bu nedenle uygulama, oyun verilerini reklam verenlerle, veri komisyoncularıyla veya üçüncü taraf hizmetlerle paylaşacak bir mekanizma içermemektedir. Google Play ve Android gibi oyunun dağıtıldığı platformlar, kendi hizmetleri kapsamında bağımsız veri işleyebilir; bunların uygulamaları kendi gizlilik politikalarına tabidir.
+
+5. Saklama süresi ve silme
+Oyun kayıtları kullanıcı cihazında, oyuncu ilerlemesini korumak için tutulur. Uygulamanın Ayarlar bölümündeki “İlerlemeyi Sıfırla” seçeneği kayıtlı oyun ilerlemesini sıfırlamak için kullanılabilir. Uygulamanın verilerini Android ayarlarından temizlemek veya uygulamayı kaldırmak yerel kayıtları silebilir. Ancak cihazın veya işletim sisteminin yedekleme ve geri yükleme özellikleri nedeniyle bazı veriler platform politikaları uyarınca geri yüklenebilir. Slotriva hesap oluşturmadığı ve oyun kayıtlarını bir geliştirici sunucusunda saklamadığı için silinecek merkezi bir hesap bulunmamaktadır.
+
+6. Güvenlik
+Uygulama, oyun kayıtlarını Android uygulama depolama alanında yerel olarak tutar. İncelenen sürüm oyun verilerini uzaktaki bir sunucuya iletmez. Cihaz güvenliği, yedekleme seçenekleri ve işletim sistemi korumaları da yerel bilgilerin korunmasında rol oynar. Hiçbir depolama yöntemi mutlak güvenlik garantisi vermez.
+
+7. Çocuklar ve oyun içeriği
+Slotriva, slot, rulet ve Blackjack temalı bir sosyal casino eğlence oyunudur; çocuklara yönelik olarak tasarlanmamıştır. Uygulamada gerçek parayla kumar oynama veya gerçek para ödülü kazanma özelliği yoktur. Yaş derecelendirmeleri, oyunun dağıtıldığı mağazanın ve ilgili bölgenin kurallarına göre uygulanır.
+
+8. Destek amacıyla iletişim
+Kullanıcılar destek veya gizlilik sorusu için bize kendi tercihleriyle e-posta gönderebilir. Böyle bir durumda gönderilen e-posta adresi ve mesajda gönüllü olarak paylaşılan bilgiler, talebe yanıt vermek ve gerekli olduğu ölçüde takibini yapmak için işlenebilir; bu bilgi oyunun kendisi tarafından otomatik olarak toplanmaz. Destek yazışmalarına ilişkin erişim, düzeltme veya silme taleplerinizi aynı adrese iletebilirsiniz.
+
+9. Politika değişiklikleri
+Yeni bir sürümde reklam, analitik, çevrimiçi hesap, bulut kaydı, ödeme veya başka bir veri işleme özelliği eklenirse bu politika ve Google Play Veri Güvenliği beyanları ilgili sürüm yayınlanmadan önce gözden geçirilerek güncellenecektir. Güncel metin bu sayfada yayımlanır.
+
+10. İletişim
+Geliştirici: Victorium Soft. Uygulama: Slotriva: Casino Games. Paket adı: com.victoriumsoft.slotriva. Gizlilik ve destek e-postası: victoriumsoft@gmail.com. Web sitesi: https://www.victoriumsoft.site/
+
+
+ENGLISH
+===================================
+
+1. Scope and developer
+This Privacy Policy applies to the Android app “Slotriva: Casino Games” (package: com.victoriumsoft.slotriva), provided by Victorium Soft. It reflects the data practices found in the reviewed version 4.6.0 source project. For privacy questions or requests, contact victoriumsoft@gmail.com.
+
+2. Data requested and stored locally
+In the reviewed version, Slotriva does not require users to create an account or provide names, email addresses, phone numbers, location, photos, contacts, or payment card information in the app. To preserve gameplay, the app stores virtual coin balance, selected stakes and previous bet patterns, slot/roulette/Blackjack history, VIP level, experience points, achievements, daily rewards and mission progress, theme and language preferences, sound/animation settings, and associated local dates on the user's device. This information is local gameplay progress and is not designed to be sent to a Victorium Soft server.
+
+3. How local data is used
+Local records are used to restore gameplay progress, maintain virtual coin balances, manage missions and rewards, remember preferences, and display in-game statistics. The app does not offer real-money wagering or prizes redeemable for money.
+
+4. Internet, advertising and third-party services
+The reviewed 4.6.0 source contains no in-app advertising, user analytics, third-party tracking, social sign-in, cloud save, or in-app payment SDK. Internet and network-state permissions are disabled in its Android export settings. Accordingly, the app has no implemented mechanism to share gameplay data with advertisers, data brokers, or third-party services. Distribution platforms such as Google Play and Android may independently process information for their own services under their own privacy policies.
+
+5. Retention and deletion
+Gameplay records remain on the user's device to preserve progress. The “Reset Progress” control in the app's Settings can be used to reset saved gameplay progress. Clearing the app's storage in Android settings or uninstalling the app may delete local save data. Device or operating-system backup and restoration may, however, restore certain data under platform settings and policies. As Slotriva does not provide accounts or store game saves on a developer server, there is no central user account to delete.
+
+6. Security
+The app keeps gameplay records in Android's app-local storage. The reviewed version does not transmit those records to a remote server. Device security, backup settings, and operating-system protections also affect local data security. No storage method can be guaranteed completely secure.
+
+7. Children and game content
+Slotriva is a social casino entertainment game featuring slot, roulette and Blackjack themes and is not designed for children. It does not provide real-money gambling or real-money prizes. Applicable store and regional age ratings apply.
+
+8. Voluntary support contact
+Users may voluntarily email us with support or privacy questions. If you choose to do so, your email address and information you include in the message may be used to respond to and follow up on the inquiry. Such information is not automatically collected by the game itself. You may request access to, correction of, or deletion of support correspondence by contacting the same address.
+
+9. Updates to this policy
+If a future release adds advertising, analytics, online accounts, cloud saves, payments, or another data-processing feature, this policy and the Google Play Data safety declarations will be reviewed and updated before that release. The updated policy will be published on this page.
+
+10. Contact
+Developer: Victorium Soft. App: Slotriva: Casino Games. Package: com.victoriumsoft.slotriva. Privacy and support email: victoriumsoft@gmail.com. Website: https://www.victoriumsoft.site/

@@ -1,0 +1,12 @@
+SLOTRIVA - GİZLİLİK POLİTİKASI YAYINLAMA
+
+1. slotriva-privacy-policy.html dosyasını victoriumsoft.site alan adını yayınlayan sitenin depo köküne (index.html ile aynı klasöre) yükleyin.
+2. Site yenilendikten sonra şu adresin AÇILDIĞINI doğrulayın: https://www.victoriumsoft.site/slotriva-privacy-policy.html
+   Bu adres yalnızca önerilen yayın adresidir; dosyayı gerçekten yüklemeden aktif değildir.
+3. Play Console > Politika ve programlar > Uygulama içeriği > Gizlilik politikası bölümüne doğruladığınız HTTPS adresini ekleyin.
+4. Uygulamanın Ayarlar veya Hakkında bölümüne aynı web sayfasının bağlantısını ya da politika metnini ekleyin.
+5. Play Console Veri güvenliği formunu SON imzalı AAB içeriğine göre doldurun. SDK veya izin eklediyseniz bu metni de güncelleyin.
+6. İletişim adresi victoriumsoft@gmail.com, Victorium Soft'un herkese açık Google Play sayfalarından seçilmiştir. Yayınlamadan önce bu gelen kutusunun destek taleplerine açık olduğunu doğrulayın.
+7. Kaynak ZIP'de internet izni kapalı, reklam/analiz/ödeme SDK'sı yok; imzalı son AAB için de manifest/bağımlılık kontrolü şarttır.
+
+Google Play için PDF yerine erişilebilir, düzenlenemeyen, herkese açık HTML sayfa kullanın.
